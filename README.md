@@ -90,15 +90,19 @@ Start the development server:
 - CSS
 - Bootstrap
 - Material-UI
+  
 **Backend:**
 - Node.js
 - Express.js
 - WebSocket
+  
 **Database:**
 - MongoDB
+  
 **Others:** 
 - JWT for Authentication
 - Socket.io for Real-Time Communication
+  
 ## Project Structure
 ```bash
     navochat/ 
